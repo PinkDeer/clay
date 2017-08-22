@@ -10,6 +10,7 @@ gem 'jbuilder',     '2.7.0'
 gem 'jquery-rails', '4.3.1'
 gem 'devise',       '4.3.0'
 gem 'activeadmin', github: 'activeadmin'
+gem 'active_skin'
 
 group :development, :test do
   gem 'sqlite3', '1.3.13'
