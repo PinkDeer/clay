@@ -11,6 +11,7 @@ gem 'jquery-rails', '4.3.1'
 gem 'devise',       '4.3.0'
 gem 'activeadmin', github: 'activeadmin'
 gem 'active_skin'
+gem 'paperclip',    '5.1.0'
 
 group :development, :test do
   gem 'sqlite3', '1.3.13'
